@@ -1,14 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "admin",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "modi.aternos
+    me",
+    "port": 43778,
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "womenindia"
     },
     "anti-afk": {
       "enabled": true,
